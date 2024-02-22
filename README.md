@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @vaidesh_raja
-- 👀 I’m interested in learning new computer languages and football
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on LInkedln
-- 📫 Dont reach me ...
-
+print ("Vaidesh")
 <!---
 vaideshrn/vaideshrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
